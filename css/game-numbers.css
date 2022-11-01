@@ -1,0 +1,9 @@
+@import url(game.css);
+
+.drop-container_number {
+    border: 5px solid gray;
+}
+
+.drag-item {
+    background-color: blueviolet;
+}

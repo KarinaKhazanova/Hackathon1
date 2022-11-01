@@ -1,0 +1,10 @@
+@import url(game.css);
+
+.drag-img {
+    object-fit: contain;
+}
+
+
+.color-game {
+    background-color: lightgray;
+}

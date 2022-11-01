@@ -1,0 +1,30 @@
+.drop-containers {
+    display: flex;
+    justify-content: center;
+    column-gap: 10px;
+    margin-bottom: 50px;
+
+}
+
+.drop-container {
+    width: 200px;
+    padding: 20px;
+    min-height: 200px;
+    height: fit-content;
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+.drag-items {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 10px;
+}
+
+.drag-item {
+    width: 100px;
+    height: 100px;
+}
